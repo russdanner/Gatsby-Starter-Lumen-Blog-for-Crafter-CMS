@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6497</objectGroupId>
+	<objectId>6497af67-bd6b-b1e2-5b3d-2d2559524fc0</objectId>
+	<items item-list="true">	<item>	<key>Kittens</key>
+	<value>Kittens</value>
+	</item>	<item>	<key>Cats</key>
+	<value>Cats</value>
+	</item>	<item>	<key>Funny</key>
+	<value>Funny</value>
+	</item></items>
+	<file-name>categories.xml</file-name>
+	<folder-name/>
+	<internal-name>Categories</internal-name>
+	<createdDate>2017-5-12T4:56:54.000Z</createdDate>
+	<createdDate_dt>2017-5-12T4:56:54.000Z</createdDate_dt>
+	<lastModifiedDate>2019-10-11T17:12:46.743Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-11T17:12:46.743Z</lastModifiedDate_dt>
+</component>

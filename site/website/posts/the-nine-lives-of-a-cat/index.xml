@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/post</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>07e0</objectGroupId>
+	<objectId>07e013bb-b7b1-900f-3915-334de9b1f0a2</objectId>
+	<description_t>This tale of wonder is told for children; with which view, it has been carefully designed and very nicely printed. For some time past, it has arrived at the dignity of a popular Nursery Tale in the Author’s family ; and it is hoped it will merit the same good fortune elsewhere. It will be worth while explaining, that the circle in each page is made to represent some object in connection with the story ; and, that as some of them have proved rather puzzling, to Juvenile admirers has been left the task of ” finding them out.”</description_t>
+	<category_s>Cats</category_s>
+	<file-name>index.xml</file-name>
+	<folder-name>the-nine-lives-of-a-cat</folder-name>
+	<internal-name>The Nine Lives of a Cat</internal-name>
+	<title_t>The Nine Lives of a Cat</title_t>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<body_html>&lt;div class="blockcenter" style="box-sizing: inherit; width: 945px; margin-left: auto; margin-right: auto; text-align: center; color: #404040; font-family: Alegreya, serif; font-size: 17.34px; background-color: #ffffff;"&gt;
+&lt;p style="box-sizing: inherit; margin-bottom: 1.3em; margin-top: 0px;"&gt;&lt;span style="box-sizing: inherit; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-caps: small-caps;"&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/item/images/2019/10/11/ninelivesofcatta00benniala_0006.jpg" alt="" width="570" height="825" /&gt;The Nine Lives of a Cat &amp;ndash; a Tale of Wonder, by Charles Bennett; 1860; Griffith and Farran, London.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="box-sizing: inherit; margin-bottom: 1.3em; margin-top: 0px; color: #404040; font-family: Alegreya, serif; font-size: 17.34px; background-color: #ffffff;"&gt;Beautifully illustrated (though perhaps not so well rhymed!) tale of the cat with nine lives. From the preface:&lt;/p&gt;
+&lt;blockquote style="box-sizing: inherit; margin: 1.2em 0px; quotes: "' '"; font-style: italic; border-left-width: 4px; border-left-color: silver; padding: 0.1em 1.2em 0em; color: #404040; font-family: Alegreya, serif; font-size: 17.34px; background-color: #ffffff;"&gt;
+&lt;p style="box-sizing: inherit; margin-bottom: 1.3em; margin-top: 0px;"&gt;This tale of wonder is told for children; with which view, it has been carefully designed and very nicely printed. For some time past, it has arrived at the dignity of a popular Nursery Tale in the Author&amp;rsquo;s family ; and it is hoped it will merit the same good fortune elsewhere. It will be worth while explaining, that the circle in each page is made to represent some object in connection with the story ; and, that as some of them have proved rather puzzling, to Juvenile admirers has been left the task of &amp;rdquo; finding them out.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="hpy_post_meta_fields" style="box-sizing: inherit; background: #f6f7f9; padding: 1em 1em 0.7em; margin: 2.3em auto; max-width: 600px; color: #404040; font-family: Alegreya, serif; font-size: 17.34px;"&gt;
+&lt;div class="hpy_post_source_field hpy_meta_field" style="box-sizing: inherit; display: flex; align-items: center; margin-bottom: 0.3em; font-size: 15.606px;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p style="box-sizing: inherit; margin-bottom: 1.3em; margin-top: 0px; color: #404040; font-family: Alegreya, serif; font-size: 17.34px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;"&gt;&amp;nbsp;&lt;/p&gt;</body_html>
+	<createdDate>2019-10-11T20:48:50.214Z</createdDate>
+	<createdDate_dt>2019-10-11T20:48:50.214Z</createdDate_dt>
+	<lastModifiedDate>2019-10-11T20:48:50.214Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-11T20:48:50.214Z</lastModifiedDate_dt>
+</page>
