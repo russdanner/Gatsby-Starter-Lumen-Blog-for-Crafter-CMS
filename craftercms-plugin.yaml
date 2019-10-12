@@ -18,7 +18,7 @@ plugin:
   description: |
     Gatsby Starter Lumen Blog for Crafter CMS. A minimal, lightweight and mobile-first starter for creating blogs uses Gatsby.
   website:
-    name: Gatsby Starter Lumen Blog for Crafter CMS
+    name: Gatsby-Starter-Lumen-Blog-for-Crafter-CMS
     url: https://craftercms.org
   media:
     screenshots:
