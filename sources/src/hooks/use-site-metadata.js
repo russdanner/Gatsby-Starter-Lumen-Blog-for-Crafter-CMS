@@ -20,6 +20,12 @@ query SiteMetaData {
 
 var siteMetadata = site.CrafterCMS.site.siteMetadata[0];
 
+siteMetadata.title = siteMetadata.blogTitle_s;
+siteMetadata.subtitle = 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.';
+siteMetadata.copyright = '© All rights reserved.';
+siteMetadata.disqusShortname = '';
+siteMetadata.postsPerPage = 4;
+
 siteMetadata.menu = [
     {
       label: 'Articles',
