@@ -12,8 +12,12 @@ type Props = {
 const Feed = ({ edges }: Props) => (
   <div className={styles['feed']}>
     {edges.node.map((node) => (
-      <div className={styles['feed__item']} key={node.category_s}>
-        <div className={styles['feed__item-meta']}>
+      <div  className={styles['feed__item']} key={node.category_s} 
+            data-studio-component-path={node.cmsId} 
+            data-studio-ice-path={node.cmsId}
+            data-studio-component={node.cmsType}
+            data-studio-ice="" >
+        <div className={styles['feed__item-meta']}  >
           <time className={styles['feed__item-meta-time']} dateTime={moment(node.createdDate_dt).format('MMMM D, YYYY')}>
             {moment(Date.parse(node.createdDate_dt.split("T")[0])).format('MMMM YYYY')}
           </time>

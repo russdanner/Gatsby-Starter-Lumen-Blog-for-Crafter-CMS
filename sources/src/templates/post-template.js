@@ -34,6 +34,8 @@ export const query = graphql`
         items {
           localId(filter: { equals: $url }) 
           createdDate_dt
+          cmsId: localId
+          cmsType: content__type
           ... on cms_page_post {
             title_t
             body_html_raw

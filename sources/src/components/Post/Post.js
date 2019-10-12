@@ -19,7 +19,11 @@ const Post = ({ post }: Props) => {
   const { tags, title_t, createdDate } = post;
 
   return (
-    <div className={styles['post']}>
+    <div className={styles['post']}             
+            data-studio-component-path={post.cmsId} 
+            data-studio-ice-path={post.cmsId}
+            data-studio-component={post.cmsType}
+            data-studio-ice="" >
       <Link className={styles['post__home-button']} to="/">All Articles</Link>
 
       <div className={styles['post__content']}>

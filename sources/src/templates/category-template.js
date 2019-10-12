@@ -53,7 +53,8 @@ export const query = graphql`
           createdDate_dt
           content__type(filter: {equals:"/page/post"})
           url: localId(transform: "storeUrlToRenderUrl")
-
+          cmsId: localId
+          cmsType: content__type
           ... on cms_page_post {
               body_html
               body_html_raw

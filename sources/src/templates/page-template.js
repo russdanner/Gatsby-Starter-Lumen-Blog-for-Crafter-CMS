@@ -23,7 +23,11 @@ const PageTemplate = ({ data }: Props) => {
     <Layout title={`${post.title_t} - ${siteTitle}`} description={metaDescription}>
       <Sidebar />
       <Page title={post.title_t}>
-        <div dangerouslySetInnerHTML={{ __html: post.body_html }} />
+        <div dangerouslySetInnerHTML={{ __html: post.body_html }}  
+            data-studio-component-path={post.cmsId} 
+            data-studio-ice-path={post.cmsId}
+            data-studio-component={post.cmsType}
+            data-studio-ice=""/>
       </Page>
     </Layout>
   );
@@ -36,6 +40,8 @@ export const query = graphql`
         items {
           localId(filter: { equals: $url})
           createdDate_dt
+          cmsId: localId
+          cmsType: content__type
           ... on  cms_page_page {
             body_html
             title_t

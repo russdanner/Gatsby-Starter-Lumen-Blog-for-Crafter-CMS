@@ -52,6 +52,8 @@ query IndexTemplate {
     edges: pages {
       node: items {
         createdDate_dt
+        cmsId: localId
+        cmsType: content__type
         content__type(filter: {equals: "/page/post"})
         url: localId(transform: "storeUrlToRenderUrl")
         ... on cms_page_post {
