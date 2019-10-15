@@ -7,7 +7,7 @@ descriptorVersion: 2
 plugin:
   type: blueprint
   id: craftercms.gatsby.lumenblog
-  name: 
+  name: Gatsby Starter Lumen Blog for Crafter CMS
   tags:
     - blueprint
     - website
@@ -24,7 +24,7 @@ plugin:
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
-        url: /static-assets/images/screenshots/home.png
+        url: https://raw.githubusercontent.com/russdanner/Gatsby-Starter-Lumen-Blog-for-Crafter-CMS/master/static-assets/images/screenshots/home.png
   developer:
     company:
       name: Russ Danner
