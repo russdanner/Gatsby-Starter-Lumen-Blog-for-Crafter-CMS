@@ -14,7 +14,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   description: |
     Gatsby Starter Lumen Blog for Crafter CMS. A minimal, lightweight and mobile-first starter for creating blogs uses Gatsby.
   website:
