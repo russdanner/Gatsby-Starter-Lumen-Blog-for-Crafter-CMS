@@ -1,3 +1,25 @@
+#  MIT License
+#
+#  Copyright (c) 2018-2019 Crafter Software Corporation. All Rights Reserved.
+#
+#  Permission is hereby granted, free of charge, to any person obtaining a copy
+#  of this software and associated documentation files (the "Software"), to deal
+#  in the Software without restriction, including without limitation the rights
+#  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+#  copies of the Software, and to permit persons to whom the Software is
+#  furnished to do so, subject to the following conditions:
+#
+#  The above copyright notice and this permission notice shall be included in all
+#  copies or substantial portions of the Software.
+#
+#  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+#  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+#  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+#  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+#  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+#  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+#  SOFTWARE.
+
 # This file describes a plugin for use in Crafter CMS
 
 # The version of the format for this file
@@ -10,36 +32,36 @@ plugin:
   name: Gatsby Starter Lumen Blog for Crafter CMS
   tags:
     - blueprint
-    - website
+    - blog
   version:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   description: |
     Gatsby Starter Lumen Blog for Crafter CMS. A minimal, lightweight and mobile-first starter for creating blogs uses Gatsby.
   website:
     name: Gatsby-Starter-Lumen-Blog-for-Crafter-CMS
-    url: https://craftercms.org
+    url: https://github.com/russdanner/Gatsby-Starter-Lumen-Blog-for-Crafter-CMS.git
   media:
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
-        url: https://raw.githubusercontent.com/russdanner/Gatsby-Starter-Lumen-Blog-for-Crafter-CMS/master/static-assets/images/screenshots/home.png
+        url: https://raw.githubusercontent.com/russdanner/Gatsby-Starter-Lumen-Blog-for-Crafter-CMS/master/static-assets/images/screenshots/home.png  
   developer:
     company:
       name: Russ Danner
       email: russ.danner@craftersoftware.com
       url: https://github.com/russdanner
   build:
-    id: c3d2a5444e6a24b5e0481d6ba87901d0b02716c8
-    date: 2019-01-23T00:00:00Z
+    id: a195a3f7b56e87f64fe774193fe0472f97fb3d31
+    date: 2019-06-24T00:00:00Z
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
   crafterCmsVersions:
     - major: 3
       minor: 1
-      patch: 1
+      patch: 4
   crafterCmsEditions:
     - community
     - enterprise
