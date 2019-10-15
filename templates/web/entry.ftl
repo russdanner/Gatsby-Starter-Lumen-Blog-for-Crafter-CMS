@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <body>
-        <h1>Welcome to the Gatsby Starter: Lumen Blog for Crafter CMS</h1> 
+        <h1>Welcome to Gatsby Starter: Lumen Blog for Crafter CMS</h1> 
 
         <p>To enable preview and in-context editing please follow these steps</p>
         
