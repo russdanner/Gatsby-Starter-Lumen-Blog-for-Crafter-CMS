@@ -25,7 +25,7 @@ module.exports = {
       options: {
         typeName: "cms",
         fieldName: "CrafterCMS",
-        url: "http://localhost:8080/api/1/site/graphql?crafterSite=gatsby2",
+        url: "http://localhost:8080/api/1/site/graphql?crafterSite=SITEID",
         refetchInterval: 3,
       },
     },
