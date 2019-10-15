@@ -10,7 +10,7 @@
         <ol>
           <li>Via the console, in the "/sources" directory execute "<b>npm install</b>" (first time only)</li> 
           <li>Via the console, in the "/sources" directory execute "<b>crafterSiteId=${siteContext.siteName} gatsby develop</b>"</li> 
-          <li>Via Site Config > Configuration > Environment Configuration: change the port in preview-server-url tag:<br/> 
+          <li>Via Crafter Studio Sidebar > Site Config > Configuration > Environment Configuration: change the port in preview-server-url tag:<br/> 
           "<b>&lt;preview-server-url&gt;http://localhost:8000&lt;/preview-server-url&gt;</b>"</li>
         </ol> 
 
