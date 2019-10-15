@@ -49,24 +49,17 @@ Create a site in Crafter CMS based on this blueprint via remote repository or th
 
 Once the project is created, start your Gatsby Server (See section: Start Developing) and your site preview will become enabled.  
 
-*Note:* sources/gatsby-config.js is where you configure your GraphQL endpoint for Gatsby.
-Here you can configure the proper server / domain name and ports as well as the site ID.
-
+To start your server, in the sources location
 Example:
 ```
-  plugins: [
-    {
-      resolve: "gatsby-source-graphql",
-      options: {
-        typeName: "cms",
-        fieldName: "CrafterCMS",
-        url: "http://localhost:8080/api/1/site/graphql?crafterSite=gatsby3",
-        refetchInterval: 3,
-      },
-    },
- ```
+On First Run:
+    npm install
+    crafterSiteId=YOUR_SITE_ID gatsby develop
 
+On Subsequent Runs:
+    crafterSiteId=YOUR_SITE_ID gatsby develop
 
+```
 
 #### Start Developing
 
