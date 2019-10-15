@@ -8,7 +8,7 @@
         <p>To enable preview and in-context editing please follow these steps</p>
         
         <ol>
-          <li>Preview requires the Gatsby CLI.  This can be installed by following these instructions <a target="_new" href="https://www.gatsbyjs.org/docs/quick-start/">here</a>
+          <li>Preview requires the Gatsby CLI. This can be installed by following these instructions <a target="_new" href="https://www.gatsbyjs.org/docs/quick-start/">here</a>
           <li>Via the console, in the "/sources" directory execute "<b>npm install</b>" (first time only)</li> 
           <li>Via the console, in the "/sources" directory execute "<b>crafterSiteId=${siteContext.siteName} gatsby develop</b>"</li> 
           <li>Via Crafter Studio Sidebar &gt; Site Config &gt; Configuration &gt; Environment Configuration: 
